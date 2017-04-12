@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubedns-amd64:1.9
-MAINTAINER mritd <mritd@mritd.me>
+FROM gcr.io/google_containers/kubedns-amd64:1.14.1
+MAINTAINER cuixb <yan_5386@163.com>
