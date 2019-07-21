@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.6.0
+FROM k8s.gcr.io/kube-apiserver:v1.15.0
 MAINTAINER TracyBin <yan_5386@163.com>

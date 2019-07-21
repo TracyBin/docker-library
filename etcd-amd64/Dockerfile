@@ -1,2 +1,2 @@
-FROM quay.io/coreos/flannel:v0.7.0-amd64
+FROM k8s.gcr.io/etcd:3.3.10
 MAINTAINER cuixb <yan_5386@163.com>
